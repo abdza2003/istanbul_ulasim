@@ -130,5 +130,3 @@ The **İstanbul Ulaşım** app is a comprehensive tool for managing vehicle and 
 
 ---
 
-This **README** provides a detailed explanation of the **İstanbul Ulaşım** app, including its features, technical specifications, and usage scenarios. It is designed to help users understand the full potential of the application and its benefits.
-
