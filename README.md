@@ -109,7 +109,7 @@ The **İstanbul Ulaşım** app is a comprehensive tool for managing operations r
 
 ---
 
-## **Expected Usage Scenario:**
+## **Usage Scenario:**
 
 1. **🏢 Entering Work Orders:**
    - Admin employees enter work orders related to vehicles or equipment and define their status through the app.
